@@ -30,6 +30,11 @@ Aby uruchomić projekt lokalnie, wykonaj poniższe kroki:
 - Unreal Engine 5
 - Środowisko programistyczne zgodne z C++ (np. Visual Studio)
 
+## Zasoby
+
+  - **Silnik gry**: [Unreal Engine 5](https://www.unrealengine.com/)
+  - **Materiały edukacyjne**: Kurs "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games" dostępny na Udemy
+
 ## Licencja
 
 Ten projekt jest licencjonowany na podstawie licencji MIT. Szczegółowe informacje znajdują się w pliku `LICENSE` w repozytorium.
